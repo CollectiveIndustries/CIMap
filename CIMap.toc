@@ -1,0 +1,13 @@
+## Interface: 60200
+## Title: |c3bfd00CIMap|r
+## Version: 6.2.0
+## Author: Zaine
+## Notes: Collective-Industries Maps
+## X-License: GNU General Public License Version 3
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: CIMData
+
+locations\locations.xml
+CIMap.lua
+libraries\lib.xml
